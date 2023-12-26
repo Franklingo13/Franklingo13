@@ -1,16 +1,13 @@
-### Hi there 👋
+### ¡Hola a todos! 👋
 
-<!--
-**Franklingo13/Franklingo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenidos a mi rincón en GitHub!
 
-Here are some ideas to get you started:
+📘 Soy estudiante de ingeniería en electrónica y telecomunicaciones, apasionado por explorar los misterios del mundo de las redes de sensores inalámbricos, las comunicaciones multimedia y la detección de fallas en paneles fotovoltaicos mediante el procesamiento de imágenes de electroluminiscencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Actualmente me encuentro inmerso en mi viaje académico, absorbiendo conocimientos y desafiándome con nuevos conceptos y tecnologías. Si tienes alguna pregunta sobre estas áreas o simplemente deseas compartir ideas, ¡estaré encantado de conversar contigo!
+
+📧 Puedes contactarme en [franklin.gomez@ucuenca.edu.ec](mailto:franklin.gomez@ucuenca.edu.ec) para cualquier consulta o colaboración.
+
+⚡ ¡Sin datos curiosos por ahora, pero siempre estoy abierto a aprender algo nuevo!
+
+¡Gracias por pasar por aquí!

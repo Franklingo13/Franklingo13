@@ -8,6 +8,6 @@
 
 📧 Puedes contactarme en [franklin.gomez@ucuenca.edu.ec](mailto:franklin.gomez@ucuenca.edu.ec) para cualquier consulta o colaboración.
 
-⚡ ¡Sin datos curiosos por ahora, pero siempre estoy abierto a aprender algo nuevo!
+⚡ ¡Siempre estoy abierto a aprender algo nuevo!
 
 ¡Gracias por pasar por aquí!
